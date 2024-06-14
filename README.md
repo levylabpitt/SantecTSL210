@@ -1,12 +1,7 @@
-# Instrument.Template Package
+# Santec TSL 210
+![image](./assets/tsl210cover.png)
 
-## Installation & Usage
-
-- See https://github.com/levylabpitt/Instrument-Framework#getting-started
-
-## Contributing
-
-Please contact [Patrick](p.irvin@levylab.org)
+Monitor and Control software for the Santec Tunable Semiconductor Laser 210.
 
 ## License
 
